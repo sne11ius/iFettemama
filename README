@@ -1,1 +1,4 @@
 An app (yay!) for fettemama.org, done with PhoneGap and Sencha Touch.
+
+Part I: geile REST schnittstelle für fettemama.org
+        s. ./RESTFettemama/README

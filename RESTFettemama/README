@@ -1,0 +1,7 @@
+Geile REST schnittstelle für fettemama.org
+
+Was zu tun:
+    1) run `mvn package'
+    2) deploy target/RESTFettemama.war to servlet container of your choice
+    3) ...
+    4) profit
